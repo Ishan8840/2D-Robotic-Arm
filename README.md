@@ -57,10 +57,3 @@ python arm.py
 ## License
 
 MIT License
-
----
-
-This is **fully copy-pasteable**, clean, and ready for GitHub.  
-
-If you want, I can also make an **even shorter, recruiter-friendly version** that emphasizes skills rather than features—good for your portfolio site. Do you want me to do that?
-```
