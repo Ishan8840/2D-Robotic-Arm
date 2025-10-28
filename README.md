@@ -42,8 +42,6 @@ python arm.py
 
 ## Demo
 
-*(Optional: add a GIF or screenshot of the arm moving here)*
-
 ![2D Robotic Arm](arm.gif)
 
 ## Next Steps
