@@ -45,7 +45,7 @@ python arm.py
 *(Optional: add a GIF or screenshot of the arm moving here)*
 
 ```markdown
-![2D Robotic Arm](demo.gif)
+![2D Robotic Arm](arm.gif)
 ```
 
 ## Next Steps
