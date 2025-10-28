@@ -64,11 +64,7 @@ while running:
 
     theta_v = np.linalg.pinv(J) @ desired_v
 
-    joint_min = np.radians([-360, 0])
-    joint_max = np.radians([360, 180])
     joint_angles += theta_v * dt
-
-    joint_angles = np.clip(joint_angles, joint_min, joint_max)
 
     prev_error = error
 
